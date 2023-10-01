@@ -43,8 +43,8 @@
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![NEXTJS](https://img.shields.io/badge/NextJS-232F3E.svg?&style=flat&logo=next-js&logoColor=white)&nbsp;
-![NUXTJS](https://img.shields.io/badge/NuxtJS-232F3E.svg?&style=flat&logo=nuxt-js&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/NEXTJS-232F3E.svg?&style=flat&logo=next-js&logoColor=white)&nbsp;
+![NuxtJS](https://img.shields.io/badge/NUXTJS-232F3E.svg?&style=flat&logo=nuxt-js&logoColor=white)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-232F3E.svg?&style=flat&logo=laravel&logoColor=white)&nbsp;
 
 <!--
