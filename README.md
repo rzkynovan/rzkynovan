@@ -96,8 +96,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 </details>
-[![Rzky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzkynovan)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkynovan&layout=compact"><img>
 
 
 <hr/>
