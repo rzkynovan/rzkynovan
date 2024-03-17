@@ -7,12 +7,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying at Institute Technology Sepuluh Nopember with major Data Science \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learn about data science, statistics, and software engineer.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since sitting on chair High School.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Surabaya Indonesia .
+&nbsp;&nbsp;&nbsp;🧑‍💻 &nbsp;Currently studying at Institute Technology Sepuluh Nopember with major Data Science \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;💓 &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently learn about data science, statistics, and software engineer.\
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp;Coding since sitting on chair High School.\
+&nbsp;&nbsp;&nbsp;🏠 &nbsp;Living in Surabaya Indonesia.
 
 <p align="center">
   <a href="mailto:rizkynovan21@gmail.com?subject=Olá%20Rizky%20Novan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,6 +96,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 </details>
+https://github-readme-stats.vercel.app/api/top-langs/?username=rzkynovan&layout=compact
 
 
 
