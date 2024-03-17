@@ -96,7 +96,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 </details>
-https://github-readme-stats.vercel.app/api/top-langs/?username=rzkynovan&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzkynovan&layout=compact)
 
 
 
